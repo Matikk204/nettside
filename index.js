@@ -1,3 +1,8 @@
+let name = "Mathias"
+let age = 15
+let setning = "jeg heter " + name + " og er " + age + " "
+
+
 let fire = () => {
     let hallo = document.getElementById("haha")
     alert(setning + hallo.value)
