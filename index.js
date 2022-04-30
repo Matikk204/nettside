@@ -1,4 +1,3 @@
-
 let fire = () => {
     let hallo = document.getElementById("haha")
     alert(setning + hallo.value)
