@@ -74,7 +74,23 @@ Enter
 >
 Enter
 </button>
+    <input type="reset">
 <!-- dette er en oppgave til skolen for å se hvor enkel man kan lage en scam side-->
 
 </html>
+    
+    <script>
 
+        function setInput(id, text) {
+            var inputF = document.getElementById(id);
+
+            inputF.value = text;
+        }
+        function selectInput(id) {
+
+                var inputF = document.getElementById(id);
+                inputF.select();
+        }
+
+    </script>
+           
