@@ -31,7 +31,7 @@
         
     </body>
 
-
+    <body>
 <p>Skriv inn hvor gammel du er under her.</p>
 <input
             placeholder="Alder"
@@ -47,6 +47,7 @@
 Enter
 </button>
 
+    <body>
 <p>Skriv inn kontonummere ditt under her.</p>
 <input
             placeholder="Kontonummer"
@@ -59,7 +60,8 @@ Enter
 >
 Enter
 </button>
-
+    
+    <body>
 <p>Skriv inn BankIDen din under her.</p>
 <input
             placeholder="BankID"
